@@ -4,5 +4,8 @@ Tool that traces AMSI events using hooking without any Provider nor ETW and save
 ![AmsiHook.dll POC](https://github.com/SoWhatNaniv/Amsi-Hooking/blob/main/Amsi%20Hooking.gif)
 
 
-Hi All,
-Created a tool that leverages AMSI to obtain deobfusacted content and buffers during dynamic execution of a malware.
+Instead of using ETW or Provider to trace AMSI events for malware analysis, I've created a dll
+that hooks amsi dll main scaning functions and logging those buffers into designated log file.
+
+Hooked also CreateProcessW to be able to trace process children and create their relevant log files.
+
