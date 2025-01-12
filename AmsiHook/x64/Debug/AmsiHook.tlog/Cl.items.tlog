@@ -1,6 +1,0 @@
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\dllmain.cpp;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\dllmain.obj
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\hook.cpp;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\hook.obj
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\logger.cpp;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\logger.obj
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\pch.cpp;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\pch.obj
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\safetyhook.cpp;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\safetyhook.obj
-C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\Zydis.c;C:\Users\Freddie\source\repos\AmsiHook\AmsiHook\x64\Debug\Zydis.obj
