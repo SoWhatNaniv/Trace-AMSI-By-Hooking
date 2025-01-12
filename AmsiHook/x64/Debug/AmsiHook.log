@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  hook.cpp
+  logger.cpp
+  safetyhook.cpp
+  Generating Code...
+  Zydis.c
+  AmsiHook.vcxproj -> C:\Users\Freddie\source\repos\AmsiHook\x64\Debug\AmsiHook.dll
