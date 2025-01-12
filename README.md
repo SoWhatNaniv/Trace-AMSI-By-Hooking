@@ -9,3 +9,4 @@ that hooks amsi dll main scaning functions and logging those buffers into design
 
 Hooked also CreateProcessW to be able to trace process children and create their relevant log files.
 
+Implemented in the code safetyhook: https://github.com/cursey/safetyhook
